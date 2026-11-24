@@ -1,0 +1,1 @@
+# Tic-Tac-Toe Game - Team 1\n\nBuild a two-player 3x3 game and detect wins, draws and game resets.\n\n## Preview\nOpen `index.html` in any modern web browser.\n
